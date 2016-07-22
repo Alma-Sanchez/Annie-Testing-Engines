@@ -38,6 +38,7 @@ select{
   height: 140px;
 	box-shadow: 5px 5px 15px #607c92;
 	padding: 10px;
+	margin-bottom: 5px;
 	background-color: #fff;
 	color: black;
 	word-wrap: break-word;
@@ -47,9 +48,9 @@ select{
 		box-shadow: 10px 10px 20px #607c92;
 	}
 }
-// .choices input[type="button"]:focus{
-// 	background-color: #004d4d;
-// }
+.choices input[type="button"]:focus{
+	background-color: #004d4d;
+}
 .choices{
 	display: flex;
 	flex-direction: column;

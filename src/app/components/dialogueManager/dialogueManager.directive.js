@@ -45,7 +45,6 @@
 		*/
 		function optionChanged(jsonSelected){
 			var selectedConversation = $scope.selectedValue.id;
-			$log.log(selectedConversation);
 			chooseDialogueScript(selectedConversation);
 		}
 			function chooseDialogueScript(fileName){
