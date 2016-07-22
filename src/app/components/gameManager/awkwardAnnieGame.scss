@@ -1,0 +1,39 @@
+.gameContainer {
+  border: 1px ridge black;
+  width: 950px;
+  height: 560px;
+  margin-right: auto;
+  margin-left: auto;
+
+  .main-pane{
+    position: relative;
+  }
+  .conversationContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgba(0,0,0,.2);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+
+    p{
+      font-size: 14pt;
+      line-height: 1.1em;
+    }
+  }
+
+  .itemRight{
+    order: 2;
+    border: 1px solid #000;
+    box-shadow: 6px 9px 20px #050700;
+  }
+  // left
+  display-dialouge{
+    background-color: #fff; 
+  }
+
+}

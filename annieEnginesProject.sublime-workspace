@@ -1,0 +1,931 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sprti",
+				"spriteName"
+			],
+			[
+				"dialo",
+				"dialogueService"
+			],
+			[
+				"linear",
+				"linear_mike_greeting"
+			],
+			[
+				"con",
+				"convosWithMike"
+			],
+			[
+				"anima",
+				"animation"
+			],
+			[
+				"mike",
+				"mikeDialogueSprite"
+			],
+			[
+				"animat",
+				"animationTitle"
+			],
+			[
+				"anim",
+				"animation"
+			],
+			[
+				"Mike",
+				"mike_surprised_mild"
+			],
+			[
+				"choice",
+				"choice"
+			],
+			[
+				"choi",
+				"choice3"
+			],
+			[
+				"charac",
+				"characterDefinition"
+			],
+			[
+				"annie",
+				"annieNormal"
+			],
+			[
+				"conversa",
+				"conversationP5Data"
+			],
+			[
+				"show",
+				"showContinue"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"node",
+				"node3Hidden"
+			],
+			[
+				"dialogue",
+				"dialogueRoot"
+			],
+			[
+				"cho",
+				"chosenAnnie"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"anni",
+				"annieDialogueSprite"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"backr",
+				"background"
+			],
+			[
+				"code",
+				"codeNode2"
+			],
+			[
+				"dia",
+				"dialogueRoot"
+			],
+			[
+				"sprite",
+				"spriteName"
+			],
+			[
+				"furni",
+				"furniture"
+			],
+			[
+				"collide",
+				"colliderXoffset"
+			],
+			[
+				"furnit",
+				"furnitureSprite"
+			],
+			[
+				"curren",
+				"currentRoomData"
+			],
+			[
+				"pos",
+				"posY"
+			],
+			[
+				"pso",
+				"posX"
+			],
+			[
+				"cha",
+				"characters"
+			],
+			[
+				"gameMa",
+				"gameManagerCharacterData"
+			],
+			[
+				"furn",
+				"furnitureItem"
+			],
+			[
+				"colli",
+				"collisions"
+			],
+			[
+				"furnitureIt",
+				"furnitureItemData"
+			],
+			[
+				"fur",
+				"furnitureItemData"
+			],
+			[
+				"col",
+				"collide"
+			],
+			[
+				"fi",
+				"furniture"
+			],
+			[
+				"game",
+				"gameManagerFurnitureData"
+			],
+			[
+				"fram",
+				"frames"
+			],
+			[
+				"item",
+				"itemData"
+			],
+			[
+				"room",
+				"currentRoom"
+			],
+			[
+				"brea",
+				"breakRoom_Poster2"
+			],
+			[
+				"futn",
+				"furnitureData"
+			],
+			[
+				"curre",
+				"currentRoomData"
+			],
+			[
+				"pla",
+				"plant_1"
+			],
+			[
+				"fun",
+				"furnitureData"
+			],
+			[
+				"roo",
+				"roomData"
+			],
+			[
+				"gameM",
+				"gameManagerRoomService"
+			],
+			[
+				"skecth",
+				"sketch"
+			],
+			[
+				"skect",
+				"sketch"
+			],
+			[
+				"gae",
+				"gameComponent"
+			],
+			[
+				"time",
+				"startTime"
+			],
+			[
+				"resul",
+				"resultContainer"
+			],
+			[
+				"result",
+				"resultContainer"
+			],
+			[
+				"quest",
+				"questionContainer"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"sta",
+				"stackExchangeIDs"
+			],
+			[
+				"ge",
+				"getAPIResults"
+			],
+			[
+				"sear",
+				"searchQueries"
+			],
+			[
+				"submi",
+				"submitButton"
+			],
+			[
+				"searchBar",
+				"searchBarForm"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"npc",
+				"NPC_Responses"
+			],
+			[
+				"Cure",
+				"current"
+			],
+			[
+				"last",
+				"getLastFrame"
+			],
+			[
+				"door",
+				"door1_Y"
+			],
+			[
+				"frame",
+				"frameRate"
+			],
+			[
+				"collsion",
+				"collisionWithSprite"
+			],
+			[
+				"mike_surprised",
+				"mike_surprised0001_Hold3"
+			],
+			[
+				"hold",
+				"hold3"
+			],
+			[
+				"collision",
+				"collisionWithSprite"
+			],
+			[
+				"collis",
+				"collisionWithSprite"
+			],
+			[
+				"current",
+				"currentFrame"
+			],
+			[
+				"coll",
+				"collisionWithSprite"
+			],
+			[
+				"mike_sur",
+				"mike_surprised"
+			],
+			[
+				"chair",
+				"chair1_Y"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"Mike-Sir",
+				"Mike-Surprised0001"
+			],
+			[
+				"mike_surprised0",
+				"mike_surprised0015_Hold3"
+			],
+			[
+				"frmae",
+				"frameRate"
+			],
+			[
+				"frma",
+				"frameCount"
+			],
+			[
+				"change",
+				"changeAnimation"
+			],
+			[
+				"collisio",
+				"collisionWithMike"
+			],
+			[
+				"chai",
+				"chair_Height"
+			],
+			[
+				"table",
+				"table_Y"
+			],
+			[
+				"set",
+				"setCollider"
+			],
+			[
+				"cra",
+				"createSprite"
+			],
+			[
+				"mirrr",
+				"mirrorX"
+			],
+			[
+				"mirr",
+				"mirrorX"
+			],
+			[
+				"object",
+				"object"
+			],
+			[
+				"obj",
+				"objectCollision"
+			],
+			[
+				"obje",
+				"objects"
+			],
+			[
+				"chan",
+				"changeAnimation"
+			],
+			[
+				"objec",
+				"objectCollision"
+			],
+			[
+				"ann",
+				"anniePosY"
+			],
+			[
+				"add",
+				"addAnimation"
+			],
+			[
+				"create",
+				"createSprite"
+			],
+			[
+				"walk",
+				"walkLeft_End"
+			],
+			[
+				"do",
+				"DOWN_ARROW"
+			],
+			[
+				"up",
+				"UP_ARROW"
+			],
+			[
+				"right",
+				"RIGHT_ARROW"
+			],
+			[
+				"left",
+				"LEFT_ARROW"
+			],
+			[
+				"an",
+				"annieWidth"
+			],
+			[
+				"walkL",
+				"walkLeft_Start"
+			],
+			[
+				"walkLe",
+				"walkLeft_End"
+			],
+			[
+				"walkU",
+				"walkUp_Start"
+			],
+			[
+				"walkR",
+				"walkRight_Start"
+			],
+			[
+				"walkr",
+				"walkRight_Start"
+			],
+			[
+				"plantT",
+				"plantTop_Height"
+			],
+			[
+				"plantTop_",
+				"plantTop_X"
+			],
+			[
+				"plant",
+				"plantTop"
+			],
+			[
+				"chair1",
+				"chair1_Y"
+			],
+			[
+				"chari",
+				"chairs"
+			],
+			[
+				"annieW",
+				"annieWidthSize"
+			],
+			[
+				"tabl",
+				"tableX"
+			],
+			[
+				"anniePo",
+				"anniePosX"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"keyco",
+				"KEYCODE_UP"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"K",
+				"KEYCODE_DOWN"
+			],
+			[
+				"KEY",
+				"KEYCODE_UP"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"php ",
+				"Set Syntax: PHP"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 1176.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/BTalma/Documents/ETS Game/Annie Engines/Annie Engines"
+	],
+	"file_history":
+	[
+		"/C/Users/BTalma/Documents/ETS Game/Annie Engines/annieEnginesProject.sublime-project",
+		"/C/Users/BTalma/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/BTalma/Documents/ETS Game/Annie Engines/src/app/index.route.js",
+		"/C/Users/BTalma/Documents/ETS Game/Annie Engines/src/app/components/navbar/navbar.html",
+		"/C/Users/BTalma/Documents/WebDev/yeomanExample/src/app/components/navbar/navbar.html",
+		"/C/Users/BTalma/Documents/WebDev/yeomanExample/src/app/index.route.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/dialogueManager/dialogueManager.directive.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/gameManager/gameManagerRoom.service.js",
+		"/C/Users/BTalma/Documents/ETS Game/gameComponent.directive.js",
+		"/C/Users/BTalma/Documents/ETS Game/ETSMeetingNotes.txt",
+		"/C/Users/BTalma/Documents/ETS Game/ETS_Pragmatics_flowChart.html",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/assets/json/D1.CC.STwGr.1.json",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/assets/json/D1.LL.STwGr.1.json",
+		"/C/Users/BTalma/AppData/Local/Temp/Temp1_@L0vCarlos tweets.zip/README.txt",
+		"/C/Users/BTalma/Documents/games/stone_soup-tiles-0.18/settings/init.txt",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/assets/json/D1.FF.ST.C2.json",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/assets/json/linear_mike_greeting.json",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/gameManager/gameManager.directive.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/dialogueManager/dialogueManager.html",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/assets/json/D1.MM.Grt.1.json",
+		"/C/Users/BTalma/AppData/Local/Temp/D1.MM.Grt.1,json.json",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/D1.MM.Grt.1.json",
+		"/C/Users/BTalma/Documents/ETS Game/App/index.html",
+		"/C/Users/BTalma/Documents/ETS Game/Awkward Annie-don'tPush/Sample_JSON.json",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/conversationCanvas/canvas.directive.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/conversationCanvas/conversationP5Data.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkward Annie-don'tPush/Sample_Linear_JSON.json",
+		"/C/Users/BTalma/Documents/ETS Game/code examples/scripts/sketch.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/navbar/navbar.scss",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/index.scss",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/gameManager/awkwardAnnieGame.scss",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/dialogueManager/dialogueManager.scss",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/main/main.controller.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/gameManager/gameManagerCharacter.service.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/gameManager/awkwardAnnieGame.html",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/navbar/navbar.html",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/navbar/navbar.directive.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/dialogueManager/dialogueManager.controller.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/navbar/conversationP5Data.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/conversationCanvas/canvas.html",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/main/main.scss",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/gameManager/gameManager.scss",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/gameManager/canvas.directive.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/dialogueManager/canvas.html",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/main/main.html",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/gameManager/gameManagerFurniture.service.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/index.route.js",
+		"/C/Users/BTalma/Documents/ETS Game/Sample_JSON.json",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/dist/index.html",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/dist/scripts/app-32015ed614.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/gameManager/canvas.Controller.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/dialogueManager/dialogueManager.service.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/gameComponent/gameDirective.html",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/gameComponent/gameComponent.service.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/gameComponent/gameComponent.directive.js",
+		"/C/Users/BTalma/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/gameComponent/gameComponent.html",
+		"/C/Users/BTalma/Documents/games/stone_soup-tiles-0.18/dat/dlua/mapinit.lua",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/gameComponent/gameComponent.controller.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/bower_components/p5.play/lib/p5.play.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/gameComponent/gameComponent.scss",
+		"/C/Users/BTalma/Documents/ETS Game/Sample_Linear_JSON.json",
+		"/C/Users/BTalma/Documents/ETS Game/Sample_JSON.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/assets/json/D1.FF.ST.C2.js",
+		"/C/Users/BTalma/Documents/GitHubCommands.txt",
+		"/C/Users/BTalma/Documents/midaas-website/assets/js/midaas.js",
+		"/C/Users/BTalma/Documents/midaas-website/assets/js/midaas-dependencies.js",
+		"/C/Users/BTalma/Documents/midaas-website/index.html",
+		"/C/Users/BTalma/Documents/hackforgood-midaas/index.html",
+		"/C/Users/BTalma/Documents/midaas-website/assets/js/midaas-app.js",
+		"/C/Users/BTalma/Documents/midaas-website/assets/js/midaas.min.js",
+		"/C/Users/BTalma/Desktop/D1.FF.ST.C2.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/createJS/EaselJS-0.8.2/examples/AlphaMaskReveal.html",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/node_modules/wiredep/lib/helpers.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/node_modules/wiredep/lib/detect-dependencies.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/node_modules/lodash/chain/lodash.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/.tmp/serve/index.html",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/main/main.controller.spec.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/index.constants.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/bower_components/angular/angular.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/node_modules/wiredep/wiredep.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/gulp/scripts.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/index.config.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/bower_components/angular/bower.json",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/gameComponent/gameComponent.factory.js",
+		"/C/Users/BTalma/Documents/ETS Game/code examples/index.html",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/gameComponent/gameCp5Wrapper.factory.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/navbar/navbar.directive.spec.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/index.html",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/navbar/navbar.controller.js",
+		"/C/Users/BTalma/Documents/ETS Game/gameComponent/gameComponent.controller.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/index.module.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/gameComponent/gameCp5Wrapper.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/index.run.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/models/offices.factory.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/src/app/components/githubContributor/githubContributor.service.js",
+		"/C/Users/BTalma/Desktop/almaSanchez_solution/JS/ajaxModifications.js",
+		"/C/Users/BTalma/Desktop/almaSanchez_solution/JS/getIDs.js",
+		"/C/Users/BTalma/Documents/2016Spring/WebDev/Examples/relationships.js",
+		"/C/Users/BTalma/Desktop/almaSanchez_solution/Libraries/node_modules/jquery/README.md",
+		"/C/Users/BTalma/Documents/WebDev/p5AngularEx/angular-p5.js",
+		"/C/Users/BTalma/Documents/ETS Game/Awkawrd Annie/json/D1.FF.ST.C2.js"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 197.0,
+		"where_history":
+		[
+			"C:\\Users\\BTalma\\Documents\\2016Spring\\WebDev\\FINAL\\styles\\materialize-src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"DialogueEngine",
+			"RoomEngine",
+			"DialogueEngine",
+			"awkwardAnnieGame",
+			"full",
+			"log.log",
+			"debug",
+			"posY:",
+			"chooseDialogueScript",
+			"dialogueRoot",
+			"linearMike",
+			"convosWithMike",
+			"dialogueRoot",
+			"chooseDialogueScript",
+			"log.log",
+			"collision",
+			"hat",
+			"there he is",
+			"convosWithMike",
+			"convocWithMike",
+			"convosWithMike",
+			"C-NPC",
+			"NPC",
+			"emotion",
+			"mike_normal",
+			"hasAnimation",
+			"title",
+			"animationTitle",
+			"main",
+			"animationTitle",
+			"chan",
+			"main",
+			"animationTitle",
+			"hasAnimation",
+			"conversation_items",
+			"mikeDialogueSprite",
+			"addAnimationsToChar",
+			"conversationP5Data",
+			"Mike-Surprised",
+			"Left000",
+			"Up000",
+			"Down000",
+			"Down0001",
+			"Walk-",
+			"Chaaracters",
+			"annieSprite",
+			"mikeDialogueSprite",
+			"animation",
+			"\"NPC_Response\"",
+			"\"PC_Text\":",
+			"\"NPC_Response\": \"I don’t think that would be appropriate at our new job.\"",
+			"NPC_Response",
+			"font-size",
+			"marker",
+			"color",
+			"conversation",
+			"conversationContainer",
+			"dialogueContainer",
+			"playerChoices",
+			"dialogueContainer",
+			"conversationContainer",
+			"250",
+			"conversationP5Data",
+			"log",
+			"choiceResponse",
+			"<!-- add hide/show -->",
+			"continue",
+			"clickContinue",
+			"continue",
+			"index",
+			"vm.data",
+			"data",
+			"npcChosen",
+			"npcResponse",
+			"lass=\"dialogueContainer\"",
+			"dialogueContainer",
+			"showContinue",
+			"hideBranchingDialogue",
+			"responses",
+			"bubble",
+			"dialogueBubble",
+			"conversation",
+			"conversations",
+			"node1hidden",
+			"node1Hidden",
+			"true",
+			"node1hidden",
+			"==",
+			"if",
+			"showNode1",
+			"convoCanvas",
+			"itemRight",
+			"convoCanvas",
+			"displayDialouge",
+			"confusedAnimation",
+			"surprisedAnimation",
+			"annieNormal",
+			"conversationP5",
+			"annieDialogueSprite",
+			"mikeDialogueSprite",
+			"conversationP5Data",
+			"conversationp5Data",
+			"conversationData",
+			"dialogueService",
+			"annieDialogueSprite",
+			"canvas-manager",
+			"manager",
+			"popUpDialogueManager",
+			"bottomRight",
+			"bottmRight",
+			"continue",
+			"70px",
+			"continue",
+			">\n",
+			"intro",
+			"popUpDialogueManager",
+			"canvasManager",
+			"NPC_Response",
+			"loadDialogue",
+			"hideLinearDialogue",
+			"hideBranchingDialogue",
+			"canvasManager",
+			"CanvasController",
+			"probe",
+			"furniture",
+			"collisionswithFurniture",
+			"specialCollision",
+			"something"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 52.0
+	},
+	"input":
+	{
+		"height": 140.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "annieEnginesProject.sublime-project",
+	"replace":
+	{
+		"height": 100.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 576.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

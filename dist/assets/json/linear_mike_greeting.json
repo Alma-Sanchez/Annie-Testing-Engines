@@ -1,0 +1,27 @@
+{
+	"node1": [
+		{
+			"code":"A",
+			"PC_Text":"Hello!",
+			"NPC_Response":"Welcome to Acme Tech. My name is Mike and I'm the manager of this office. I'd like to officially welcome our newest addition to the team, Annie."
+		}
+	],
+	"node2": {
+		"A": [
+			{
+				"code":"AA",
+				"PC_Text":"Thank you, Mike!",
+				"NPC_Response":"Here at Acme Tech, we believe in work-life balance and holistic synergy. Take some time to look around and settle in. I'll be available in my office if you have any questions."
+			}
+		]
+	},
+	"node3": {
+		"AA": [
+			{
+				"code":"AAA",
+				"PC_Text":"Yay! I'm looking forward to working here.",
+				"NPC_Response":"Once again, welcome to Acme Tech!"
+			}
+		]
+	}
+}

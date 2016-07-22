@@ -1,0 +1,265 @@
+{
+	"node1": [
+		{
+			"code":"A",
+			"PC_Text":"Did you watch The Bachelor last night?",
+			"NPC_Response": "No, I was busy! How was it?",
+			"animation": ""
+		},
+		{
+			"code":"B",
+			"PC_Text":"I think the IT guy was just hitting on me!",
+			"NPC_Response": "I think he was just being nice to you.",
+			"animation": ""
+		},
+		{
+			"code":"C",
+			"PC_Text":"Can you help me set up a speed dating night with our new coworkers?",
+			"NPC_Response": "I don’t think that would be appropriate at our new job.",
+			"animation": ""
+		}
+	],
+	"node2": {
+		"A": [
+			{
+				"code":"AA", 
+				"PC_Text": "It was a good one! So much drama.",
+				"NPC_Response": "Oh, that's a shame I missed it!",
+				"animation": ""
+			},
+			{
+				"code":"AB",
+				"PC_Text": "More important than the Bachelor?",
+				"NPC_Response": "Well, I had to finish the homework for the online course I'm taking.",
+				"animation": ""
+			},
+			{
+				"code":"AC", 
+				"PC_Text": "I can't tell you. You should have watched it!",
+				"NPC_Response": "Well, I had plans last night and I couldn’t.",
+				"animation": "mike_surprised_mild"
+			}
+		],
+		"B": [
+			{
+				"code":"BA", 
+				"PC_Text": "Maybe you're right.",
+				"NPC_Response": "He seems like a friendly guy.",
+				"animation": ""
+			},
+			{
+				"code":"BB", 
+				"PC_Text": "Don't be jealous! I'm sure he has a friend for you.",
+				"NPC_Response": "I'm not jealous. You know I am dating someone.",
+				"animation": ""
+			},
+			{
+				"code":"BC", 
+				"PC_Text": "No way! Have you seen me today?",
+				"NPC_Response": "Uh, yes… you do look nice.",
+				"animation": ""
+			}
+		],
+		"C": [
+			{
+				"code":"CA", 
+				"PC_Text": "I guess not.",
+				"NPC_Response": "Yea, but we can try to get to know everyone.",
+				"animation": ""
+			},
+			{
+			"code":"CB", 
+			"PC_Text": "Give me one good reason!",
+			"NPC_Response": "The company has a policy against office romances!",
+			"animation": "mike_surprised_animation"
+			},
+			{
+				"code":"CC", 
+				"PC_Text": "When is speed dating not appropriate?",
+				"NPC_Response": "Definitely not on the first day of your new job!",
+				"animation": ""
+			}
+		]
+	},
+	"node3": {
+		"AA": [
+			{
+				"code":"AAA", 
+				"PC_Text": "You'll watch it next time!",
+				"NPC_Response":"Looking forward to it!",
+				"animation": ""
+			},
+			{
+				"code":"AAB", 
+				"PC_Text": "Your loss!",
+				"NPC_Response":"Excuse me?",
+				"animation": "mike_surprised_mild"
+			},
+			{
+				"code":"AAC", 
+				"PC_Text": "You should really make the time!",
+				"NPC_Response":"I'm a busy man.",
+				"animation": ""
+			}
+		],
+		"AB": [
+			{
+				"code":"ABA", 
+				"PC_Text": "No excuses!",
+				"NPC_Response":"",
+				"animation": ""
+			},
+			{
+				"code":"ABB", 
+				"PC_Text": "Since when is homework more important than TV?",
+				"NPC_Response":"Um, since it's helped me succeed",
+				"animation": ""
+			},
+			{
+				"code":"ABC", 
+				"PC_Text": "That course doesn't really matter anyway.",
+				"NPC_Response":"It does to some of us!",
+				"animation": "mike_surprised_mild"
+			}
+		],
+		"AC": [
+			{
+				"code":"ACA", 
+				"PC_Text": "That's too bad.",
+				"NPC_Response":"I know...",
+				"animation": ""
+			},
+			{
+				"code":"ACB", 
+				"PC_Text": "Your loss!",
+				"NPC_Response":"I've got to get back to work.",
+				"animation": "mike_surprised_mild"
+			},
+			{
+				"code":"ACC", 
+				"PC_Text": "Next time cancel your plans.",
+				"NPC_Response":"If I could I would!",
+				"animation": "mike_surprised_animation"
+			}
+		],
+		"BA": [
+			{
+				"code":"BAA", 
+				"PC_Text": "Yea he does.",
+				"NPC_Response":"",
+				"animation": ""
+			},
+			{
+				"code":"BAB", 
+				"PC_Text": "Maybe he was being more than friendly though!",
+				"NPC_Response":"",
+				"animation": ""
+			},
+			{
+				"code":"BAC", 
+				"PC_Text": "You must be blind. He was clearly hitting on me.",
+				"NPC_Response":"",
+				"animation": ""
+			}
+		],
+		"BB": [
+			{
+				"code":"BBA", 
+				"PC_Text": "Oh right, how's that going?",
+				"NPC_Response":"",
+				"animation": ""
+			},
+			{
+				"code":"BBB", 
+				"PC_Text": "I totally forgot about him!",
+				"NPC_Response":"",
+				"animation": ""
+			},
+			{
+				"code":"BBC", 
+				"PC_Text": "Yea but we both know that won't last!",
+				"NPC_Response":"Not true!",
+				"animation": "mike_surprised_animation"
+			}
+		],
+		"BC": [
+			{
+				"code":"BCA", 
+				"PC_Text": "Oh, thank you. I try!",
+				"NPC_Response":"",
+				"animation": ""
+			},
+			{
+				"code":"BCB", 
+				"PC_Text": "I do, don’t I?",
+				"NPC_Response":""
+			},
+			{
+				"code":"BCC", 
+				"PC_Text": "Are you saying I don't normally?",
+				"NPC_Response":"",
+				"animation": ""
+			}
+		],
+		"CA": [
+			{
+				"code":"CAA",
+				"PC_Text": "That's true.",
+				"NPC_Response":"",
+				"animation": ""
+			},
+			{
+				"code":"CAB",
+				"PC_Text": "That will take too long!",
+				"NPC_Response":"",
+				"animation": ""
+			},
+			{
+				"code":"CAC",
+				"PC_Text": "Why would I want to do that?",
+				"NPC_Response":"",
+				"animation": ""
+			}
+		],
+		"CB":[
+			{
+				"code":"CBA",
+				"PC_Text": "That's true.",
+				"NPC_Response":"",
+				"animation": ""
+			},
+			{
+				"code":"CBB",
+				"PC_Text": "So?",
+				"NPC_Response":"",
+				"animation": ""
+			},
+			{
+				"code":"CBC",
+				"PC_Text": "The rules were made to be broken!",
+				"NPC_Response":"Please respect our rules here.",
+				"animation": "mike_surprised_mild"
+			}
+		],
+		"CC": [
+			{
+				"code":"CCA",
+				"PC_Text": "That's true.",
+				"NPC_Response":"",
+				"animation": ""
+			},
+			{
+				"code":"CCB",
+				"PC_Text": "Do you think the second day would be ok?",
+				"NPC_Response":"No, Annie.",
+				"animation": "mike_surprised_animation"
+			},
+			{
+				"code":"CCC",
+				"PC_Text": "You're no fun at all!",
+				"NPC_Response":"",
+				"animation": "mike_surprised_mild"
+			}
+		]
+	}
+}

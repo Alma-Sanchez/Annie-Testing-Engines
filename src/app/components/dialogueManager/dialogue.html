@@ -1,0 +1,34 @@
+<!-- Dialogue Choices -->
+<select ng-options="item as item.label for item in vm.list track by item.id" ng-model="selectedValue" ng-change="vm.optionChanged(item.value)">
+	   <option value='' disabled selected>Choose Dialogue to Test</option>
+</select>
+<br>
+
+<div class="dialogueChain">
+	<div class="playerChoices">
+		<div ng-if="vm.node1Hidden == false">
+			<div class="choices" ng-repeat="choice in vm.choice">
+				<input class="btn" type="button" name="{{choice.code}}"  value="{{choice.PC_Text}}" ng-click="vm.showNode2(choice)">
+			</div>
+			<div class="responses">{{vm.node1Response}}</div>
+		</div>
+	</div>
+
+	<div class="playerChoices">
+		<div ng-if="vm.node2Hidden == false">
+			<div class="choices" ng-repeat="choice2 in vm.choice2">
+				<input class="btn" type="button" name="{{choice2.code}}" value="{{choice2.PC_Text}}" ng-click="vm.showNode3(choice2)">
+			</div>
+			<div class="responses">{{vm.node2Response}}</div>
+		</div>
+	</div>
+
+	<div class="playerChoices">
+		<div ng-if="vm.node3Hidden == false">
+			<div class="choices" ng-repeat="choice3 in vm.choice3">
+				<input class="btn" type="button" name="{{choice3.code}}" value="{{choice3.PC_Text}}" ng-click="vm.showNode3Response(choice3)">
+			</div>
+			<div class="responses">{{vm.node3Response}}</div>
+			</div>
+		</div>
+</div>
