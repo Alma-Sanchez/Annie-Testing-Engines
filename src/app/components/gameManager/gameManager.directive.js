@@ -48,12 +48,12 @@
 					Setup
 				================================================*/
 				room.setup = function(){
+					$log.log(gameManagerRoomData);
 					room.frameRate(30);
 					myCanvas = room.createCanvas(950,500);
 					myCanvas.parent(angular.element.find("game-manager")[0]); // equivalent of $($element)[0]);
 					
 					setFurniture(currentRoomData);
-					// $log.log(furniture);
 					// instantiateCharacters(currentRoomData);
 					mikeSprite = room.createSprite(currentRoomData.characters.mike.startingX,currentRoomData.characters.mike.startingY);
 					mikeSprite.setCollider("rectangle",currentRoomData.characters.mike.colliderXoffset,currentRoomData.characters.mike.colliderYoffset,currentRoomData.characters.mike.width,currentRoomData.characters.mike.height);
@@ -61,7 +61,7 @@
 
 					annieSprite = room.createSprite(currentRoomData.characters.annie.startingX,currentRoomData.characters.annie.startingY);
 					annieSprite.setCollider("rectangle",currentRoomData.characters.annie.colliderXoffset,currentRoomData.characters.annie.colliderYoffset,currentRoomData.characters.annie.width,currentRoomData.characters.annie.height);
-					// annieSprite.debug = true;
+					annieSprite.debug = true;
 					
 					/*====================
 						Add animations  --> will change to add characters
@@ -147,7 +147,7 @@
 						spriteName = room.createSprite(currentRoomData.furniture[item].posX, currentRoomData.furniture[item].posY);
 						spriteName.setCollider("rectangle",currentRoomData.furniture[item].collider_X_offset,currentRoomData.furniture[item].collider_Y_offset,currentRoomData.furniture[item].width,currentRoomData.furniture[item].height);
 						spriteName.addAnimation(item, gameManagerFurnitureData[item]);
-						// spriteName.debug = true;
+						spriteName.debug = true;
 						// furnitureSprite.setCollider for specific colliders
 						furniture.push(spriteName);
 					}
@@ -192,16 +192,9 @@
 			}
 			// Show Dialogue
 			function loadDialogue(){
-				// $log.log("Collision with Mike!");
 				vm.main.hideBranchingDialogue = false;
 				$scope.$apply();  //In case html isn't updating and variable is
 			}
 		} //end of controller
 	} //end of game manager/file
 })();
-		// function link(scope, element, attrs, ctlr){
-		// 	// $log.log(ctlr.hello);
-		// 	//$log.log(element.find("canvas"));
-		// 	var canvas = element.find("canvas");
-		// 	canvas.css("background", "black");
-		// }

@@ -23,31 +23,30 @@
 		};
 		return directive;
 
+
 		/** @ngInject */
 		function displayDialougeController($scope){
 			var vm = this;
 			var dialogueRoot;
 			var codeNode2;
+			$scope.collection = [];
+			$scope.selectedIndex = 0;
 			vm.list = jsonFiles;
 			vm.optionChanged = optionChanged;
+			vm.showNode2 = showNode2;
+			vm.showNode3 = showNode3;
+			vm.showNode3Response = showNode3Response;
 			vm.showContinue = false;
 			vm.node1Hidden = false;
 			vm.node2Hidden = true;
 			vm.node3Hidden = true;
-			vm.responseHidden = true; //hide choice initially
 			vm.node3Response = true;
-			vm.showNode2 = showNode2;
-			vm.showNode3 = showNode3;
-			vm.showNode3Response = showNode3Response;
+			vm.node3ResponseHidden = true;
 
-		/*
-			Functions
-		*/
-		function optionChanged(jsonSelected){
-			var selectedConversation = $scope.selectedValue.id;
-			$log.log(selectedConversation);
-			chooseDialogueScript(selectedConversation);
-		}
+			function optionChanged(jsonSelected){
+				var selectedConversation = $scope.selectedValue.id;
+				chooseDialogueScript(selectedConversation);
+			}
 			function chooseDialogueScript(fileName){
 				dialogueRoot = "";
 				vm.choice = "";
@@ -56,6 +55,7 @@
 				vm.node1Hidden = false;
 				vm.node2Hidden = true;
 				vm.node3Hidden = true;
+				vm.node3ResponseHidden = true;
 				vm.node1Response = "";
 				vm.node2Response = "";
 				vm.node3Response = "";
@@ -66,8 +66,11 @@
 					vm.choice2 = dialogueRoot.node2;
 					vm.choice3 = dialogueRoot.node3;
 				});
-			}//function
+			}
 
+			/*
+				Functions
+			*/
 			function showNode2(choice){  // Hide previous button
 				// vm.node1Hidden = false;
 				vm.node2Hidden = false; //show if choice is clicked
@@ -75,9 +78,6 @@
 				vm.node1Response = choice.NPC_Response;
 				codeNode2 = choice.code;
 				vm.choice2 = dialogueRoot.node2[codeNode2]; //data needed to pull up choices
-				var addClassTo = angular.element(choice.code);
-				$log.log(addClassTo);
-				addClassTo.addClass("selected");
 			}//end of showNode2
 
 			function showNode3(choice){
@@ -88,14 +88,13 @@
 			}//end of showNode3
 			
 			function showNode3Response(choice){ //choice parameter
+				vm.node3ResponseHidden = false;
 				vm.node3Response = choice.NPC_Response;
 			}
 			// function clickContinue(){
 			// 	vm.main.hideBranchingDialogue = true;
 			// 	vm.chosenAnnie = "";
 			// 	vm.npcResponse = "";
-
-			// 	vm.responseHidden = true; //hide choice initially
 			// 	vm.node3Response = true;
 			// 	vm.showContinue = false;
 			// 	vm.main.animationTitle = "";

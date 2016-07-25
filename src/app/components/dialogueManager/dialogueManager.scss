@@ -1,9 +1,13 @@
 select{
-	height: 25px;
+	border: 1px solid red;
+	height: 20px;
 	width: 200px;
+	margin-bottom: 5px;
 }
-.selected{
-		background-color: #004d3d;
+.chosen{
+		background-color: #000;
+		color: red;
+		border: 3px solid blue;
 }
 .dialogueChain{
 	display: flex;
@@ -13,9 +17,9 @@ select{
 .playerChoices{
 	position: relative;
 	background-color: #a7c8e7;
-	width: 290px;
-	height: 450px;
-	padding: 7px;
+	width: 294px;
+  height: 470px;
+  padding: 5px;
 	font-family: marker-felt;
 	line-height: 1.3em;
 }
@@ -33,11 +37,12 @@ select{
 .choices input[type="button"]{
 	font-family: 'Lato', sans-serif;
 	font-size: 12pt;
-  width: 140px;
-	min-height: 100px;
-  height: 140px;
+	width: 151px;
+	min-height: 130px;
+	height: 153px;
 	box-shadow: 5px 5px 15px #607c92;
-	padding: 10px;
+	padding: 6px;
+	margin-bottom: 5px;
 	background-color: #fff;
 	color: black;
 	word-wrap: break-word;
@@ -47,9 +52,9 @@ select{
 		box-shadow: 10px 10px 20px #607c92;
 	}
 }
-// .choices input[type="button"]:focus{
-// 	background-color: #004d4d;
-// }
+.choices input[type="button"]:focus{
+	background-color: #b0cce6;
+}
 .choices{
 	display: flex;
 	flex-direction: column;

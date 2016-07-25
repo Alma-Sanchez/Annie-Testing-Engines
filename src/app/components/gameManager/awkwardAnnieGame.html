@@ -1,6 +1,9 @@
 <!-- Called awkwardAnnieGame.html -->
 <div class="gameContainer">
 	<nav-bar></nav-bar>
+<!-- 	<select ng-options="item as item for item in vm.rooms" ng-model="selectedRoom" ng-change="vm.optionChanged(item.value)">
+	   <option value='' disabled selected>Choose a Room to Test</option>
+	</select> -->
 	<div class="main-pane">
 		<game-manager main="main" room="main.roomKey"></game-manager>
 	</div>
